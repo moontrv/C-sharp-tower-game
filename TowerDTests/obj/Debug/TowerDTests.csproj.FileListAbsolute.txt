@@ -1,0 +1,3 @@
+C:\Treehouse\C#-ASP.NET-Track\Unit Testing in C#\New folder\TowerD\TowerDTests\obj\Debug\TowerDTests.csprojAssemblyReference.cache
+C:\Treehouse\C#-ASP.NET-Track\Unit Testing in C#\New folder\TowerD\TowerDTests\obj\Debug\TowerDTests.dll.config
+C:\Treehouse\C#-ASP.NET-Track\Unit Testing in C#\New folder\TowerD\TowerDTests\obj\Debug\TowerDTests.csproj.CoreCompileInputs.cache
