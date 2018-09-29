@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TowerDTests.Mocks
+namespace TowerD.Tests.Mocks
 {
     class InvaderMock : IInvader
     {
